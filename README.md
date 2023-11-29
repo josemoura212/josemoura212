@@ -12,6 +12,9 @@
 
 ## Tecnologias que eu uso no meu dia
 
+
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,gcp,git,github,sqlite)
+<!--
 <div style="display: inline_block"><br/>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -19,6 +22,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+-->
 
 
 ## Frequência de commits
