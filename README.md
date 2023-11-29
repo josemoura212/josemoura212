@@ -7,8 +7,16 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-augusto-74861b284/)
 
+<div>
+  <a href="https://github.com/josemoura212">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
+<!--
 [![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/josemoura212)
+[![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark)](https://github.com/josemoura212)
+-->
 
 ## Tecnologias que eu uso no meu dia
 
