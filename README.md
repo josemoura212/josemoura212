@@ -23,9 +23,4 @@
 
 ## Frequência de commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+![snake-gif](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
