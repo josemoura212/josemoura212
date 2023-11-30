@@ -27,7 +27,6 @@
 
 ## Tecnologias que eu uso no meu dia
 
-
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,gcp,git,github,sqlite)
 <!--
 <div style="display: inline_block"><br/>
@@ -38,7 +37,13 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 -->
+## Estudando no momento 
 
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase)
+
+## Estudos futuros
+
+![My Skills](https://skillicons.dev/icons?i=rust)
 
 ## Frequência de commits
 
