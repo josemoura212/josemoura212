@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header"/>
 
 <div align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=OLA!+MEU+NOME+%C3%89+JOS%C3%89+AUGUSTO;E+EU+SOU+FLUTTER+DEV." alt="Typing SVG" /></a>
+  <br><p align="centre"><b>Contador de Visitantes</b></p>  
+  <a align="center"><img src="https://profile-counter.glitch.me/{josemoura212}/count.svg"/></a></br>
+  <a align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=OLA!+MEU+NOME+%C3%89+JOS%C3%89+AUGUSTO;E+EU+SOU+FLUTTER+DEV." alt="Typing SVG" /></a>
 </div>
 
 
