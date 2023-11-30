@@ -1,5 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header"/>
 
-## Ola! eu sou o José Augusto 💻
+<div align="center">
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=OLA!+MEU+NOME+%C3%89+JOS%C3%89+AUGUSTO;E+EU+SOU+FLUTTER+DEV." alt="Typing SVG" /></a>
+</div>
+
+
 
 ### Redes Sociais
 
@@ -36,3 +41,5 @@
 ## Frequência de commits
 
 ![snake-gif](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=footer"/>
