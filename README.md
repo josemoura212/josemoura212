@@ -8,7 +8,7 @@
 
 
 
-### Redes Sociais
+### Redes Sociais:
 
 [![whatssapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994049524)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/)
@@ -25,9 +25,9 @@
 [![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark)](https://github.com/josemoura212)
 -->
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,gcp,git,github,sqlite)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,gcp,git,github,sqlite,postman,vscode)
 <!--
 <div style="display: inline_block"><br/>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -37,15 +37,33 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 -->
-## Estudando no momento 
+## Estudando no momento:
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase)
 
-## Estudos futuros
+## Estudos futuros:
 
-![My Skills](https://skillicons.dev/icons?i=rust)
+![My Skills](https://skillicons.dev/icons?i=rust,python)
 
-## Frequência de commits
+##
+
+### Formação Académicas:
+
+Na visão geral abaixo vc encontrará minhas formações académicas:
+
+[<img align="left" height="94px" width="94px" alt="Academia do flutter" src="https://i.imgur.com/xwIRO2O.png"/>](https://novo.academiadoflutter.com.br/)
+**Software Developer** \
+[**Academia Do Flutter**](https://novo.academiadoflutter.com.br/) \
+Linguagens & Tecnologias: `Dart`, `Flutter`, `AWS`, `Firebase`
+<br/>Linguagens & Tecnologias - Back-end: `Dart - Shelf`, `APIs Rest`, `SQlite`<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="b7web" src="https://i.imgur.com/dA6Cvzz.png"/>](https://b7web.com.br/)
+**Software Developer** \
+[**B7Web**](https://b7web.com.br/) \
+Linguagens & Tecnologias: `HTML`, `CSS`, `DOM`, `JavaScript`,`Git`
+<br/>Linguagens & Tecnologias - Back-end: `Node.js`
+
+## Frequência de commits:
 
 ![snake-gif](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
 
