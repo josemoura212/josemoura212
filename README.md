@@ -60,7 +60,7 @@ Linguagens & Tecnologias: `Dart`, `Flutter`, `AWS`, `Firebase`
 [<img align="left" height="94px" width="94px" alt="b7web" src="https://i.imgur.com/dA6Cvzz.png"/>](https://b7web.com.br/)
 **Software Developer** \
 [**B7Web**](https://b7web.com.br/) \
-Linguagens & Tecnologias: `HTML`, `CSS`, `DOM`, `JavaScript`,`Git`
+Linguagens & Tecnologias: `HTML`, `CSS`, `DOM`, `JavaScript`,`Git/GitHub`
 <br/>Linguagens & Tecnologias - Back-end: `Node.js`
 
 ## Frequência de commits:
