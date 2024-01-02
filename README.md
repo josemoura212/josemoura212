@@ -39,11 +39,11 @@
 -->
 ## Estudando no momento:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase)
+![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,firebase)
 
 ## Estudos futuros:
 
-![My Skills](https://skillicons.dev/icons?i=rust,python)
+![My Skills](https://skillicons.dev/icons?i=python)
 
 ##
 
