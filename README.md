@@ -27,7 +27,7 @@
 
 ## Tecnologias que eu uso no meu dia:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,gcp,git,github,sqlite,postman,vscode)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,azure,gcp,git,github,sqlite,postman,vscode)
 <!--
 <div style="display: inline_block"><br/>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
