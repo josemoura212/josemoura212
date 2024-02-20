@@ -39,7 +39,7 @@
 -->
 ## Estudando no momento:
 
-![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,firebase)
+![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,python,firebase,docker)
 
 ## Estudos futuros:
 
@@ -56,6 +56,12 @@ Na visão geral abaixo vc encontrará minhas formações académicas:
 [**Academia Do Flutter**](https://novo.academiadoflutter.com.br/) \
 Linguagens & Tecnologias: `Dart`, `Flutter`, `AWS`, `Firebase`
 <br/>Linguagens & Tecnologias - Back-end: `Dart - Shelf`, `APIs Rest`, `SQlite`<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="Full Cycle" src="https://imgur.com/a/tLWO5Ya"/>](https://fullcycle.com.br/)
+**Software Developer** \
+[**FullCycle**](https://fullcycle.com.br/) \
+Linguagens & Tecnologias: `Docker`, `Python`, `Nextjs`, `Go`
+<br/> Grade de cursos completa - [*Clique Aqui*](http://lancamento.fullcycle.com.br/brochura-fullcycle-3.0.pdf) \
 
 [<img align="left" height="94px" width="94px" alt="b7web" src="https://i.imgur.com/dA6Cvzz.png"/>](https://b7web.com.br/)
 **Software Developer** \
