@@ -27,7 +27,7 @@
 
 ## Tecnologias que eu uso no meu dia:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,azure,gcp,git,github,sqlite,postman,vscode,docker,rust,python,django,actix,postgres,postman)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,azure,gcp,git,github,sqlite,postman,vscode,docker,rust,actix,python,django,postgres,postman)
 <!--
 <div style="display: inline_block"><br/>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -39,7 +39,7 @@
 -->
 ## Estudando no momento:
 
-![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,python,firebase,docker,actix,django)
+![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,python,firebase,docker,actix,django,go,kafka,rabbitmq,supabase)
 
 ## Estudos futuros:
 
