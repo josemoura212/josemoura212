@@ -1,14 +1,14 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header)](https://github.com/josemoura212)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=Backend+%2F+Infrastructure+Engineer;Kafka+%7C+Node.js+%7C+Rust+%7C+Docker;Building+real-time+systems+%40+Unnichat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=Dev+Full-Stack+%2F+Mobile;Kafka+%7C+Node.js+%7C+Rust+%7C+Docker;Real-time+systems+%26+Infrastructure)](https://git.io/typing-svg)
 
 ---
 
 ### Sobre mim
 
-Engenheiro backend/infraestrutura na [Unnichat](https://unnichat.com), onde trabalho com sistemas de chat em tempo real, processamento assíncrono com Kafka e observabilidade. Apaixonado por performance, Rust e arquiteturas distribuídas.
+Dev Full-Stack / Mobile com foco em backend, infraestrutura e sistemas em tempo real. Trabalho com processamento assíncrono, mensageria e observabilidade no dia a dia.
 
-🔧 Stack principal: **Node.js, Kafka, MongoDB, PostgreSQL, Redis, Docker Swarm**
+🔧 Stack: **Node.js, Kafka, MongoDB, PostgreSQL, Redis, Docker**
 🦀 Explorando **Rust** como linguagem backend (rdkafka, Axum, Actix)
 📊 Observabilidade com **SigNoz + OpenTelemetry**
 🐧 Manjaro Linux no dia a dia, Ubuntu nos servidores
@@ -26,11 +26,11 @@ Engenheiro backend/infraestrutura na [Unnichat](https://unnichat.com), onde trab
 
 ### Profile Summary
 
-[![Profile Details](./profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/josemoura212)
+[![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/josemoura212)
 
-[![Repos per Language](./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/josemoura212) [![Most Commit Language](./profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/josemoura212)
+[![Repos per Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/josemoura212) [![Most Commit Language](./profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/josemoura212)
 
-[![Stats Card](./profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/josemoura212) [![Productive Time](./profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/josemoura212)
+[![Stats Card](./profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/josemoura212) [![Productive Time](./profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/josemoura212)
 
 ---
 
