@@ -1,78 +1,73 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header"/>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header)](https://github.com/josemoura212)
 
-<!--
-<div align="center">
-  <br><p align="centre"><b>Contador de Visitantes</b></p>  
-  <a align="center"><img src="https://profile-counter.glitch.me/{josemoura212}/count.svg"/></a></br>
-  <a align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=OLA!+MEU+NOME+%C3%89+JOS%C3%89+AUGUSTO;E+EU+SOU+DEV+FULL-STACK+/+MOBILE." alt="Typing SVG" /></a>
-</div>
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=Backend+%2F+Infrastructure+Engineer;Kafka+%7C+Node.js+%7C+Rust+%7C+Docker;Building+real-time+systems+%40+Unnichat)](https://git.io/typing-svg)
 
+---
 
+### Sobre mim
 
-### Redes Sociais:
+Engenheiro backend/infraestrutura na [Unnichat](https://unnichat.com), onde trabalho com sistemas de chat em tempo real, processamento assíncrono com Kafka e observabilidade. Apaixonado por performance, Rust e arquiteturas distribuídas.
 
-[![whatssapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994049524)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-augusto-74861b284/)
+🔧 Stack principal: **Node.js, Kafka, MongoDB, PostgreSQL, Redis, Docker Swarm**
+🦀 Explorando **Rust** como linguagem backend (rdkafka, Axum, Actix)
+📊 Observabilidade com **SigNoz + OpenTelemetry**
+🐧 Manjaro Linux no dia a dia, Ubuntu nos servidores
 
-<div>
-  <a href="https://github.com/josemoura212">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+### Redes Sociais
 
-<!--
-[![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/josemoura212)
-[![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark)](https://github.com/josemoura212)
--->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994049524) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-augusto-74861b284/)
 
-## Tecnologias que eu uso no meu dia:
+---
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,aws,azure,gcp,git,github,sqlite,postman,vscode,docker,rust,actix,python,django,postgres,postman)
-<!--
-<div style="display: inline_block"><br/>
-    <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
--->
-## Estudando no momento:
+### GitHub Stats
 
-![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,python,firebase,docker,actix,django,go,kafka,rabbitmq,supabase)
+[![Stats](./profile/stats.svg)](https://github.com/josemoura212)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/josemoura212)
 
-## Estudos futuros:
+### Profile Summary
 
-![My Skills](https://skillicons.dev/icons?i=python)
+[![Profile Details](./profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/josemoura212)
 
-##
+[![Repos per Language](./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/josemoura212) [![Most Commit Language](./profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/josemoura212)
 
-### Formação Académicas:
+[![Stats Card](./profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/josemoura212) [![Productive Time](./profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/josemoura212)
 
-Na visão geral abaixo vc encontrará minhas formações académicas:
+---
 
-[<img align="left" height="94px" width="94px" alt="Academia do flutter" src="https://i.imgur.com/xwIRO2O.png"/>](https://novo.academiadoflutter.com.br/)
-**Software Developer** \
-[**Academia Do Flutter**](https://novo.academiadoflutter.com.br/) \
-Linguagens & Tecnologias: `Dart`, `Flutter`, `AWS`, `Firebase`
-<br/>Linguagens & Tecnologias - Back-end: `Dart - Shelf`, `APIs Rest`, `SQlite`<br/><br/>
+### Tecnologias no dia a dia
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,rust,kafka,docker,mongodb,postgres,redis,firebase,gcp,aws,git,github,linux,vscode)
+
+### Estudando no momento
+
+![Studying](https://skillicons.dev/icons?i=rust,actix,go,kafka,rabbitmq,react,nextjs,docker,k8s,supabase)
+
+---
+
+### Formação
 
 [<img align="left" height="94px" width="94px" alt="Full Cycle" src="https://i.imgur.com/JsDy5Pz.jpg"/>](https://fullcycle.com.br/)
 **Software Developer** \
 [**FullCycle**](https://fullcycle.com.br/) \
-Linguagens & Tecnologias: `Docker`, `Python`, `Nextjs`, `Go`
-<br/> Grade de cursos completa - [*Clique Aqui*](http://lancamento.fullcycle.com.br/brochura-fullcycle-3.0.pdf) 
+Tecnologias: `Docker`, `Kubernetes`, `Python`, `Next.js`, `Go`, `Kafka`, `RabbitMQ`
+<br/>[Grade completa](http://lancamento.fullcycle.com.br/brochura-fullcycle-3.0.pdf)<br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="b7web" src="https://i.imgur.com/dA6Cvzz.png"/>](https://b7web.com.br/)
+[<img align="left" height="94px" width="94px" alt="Academia do Flutter" src="https://i.imgur.com/xwIRO2O.png"/>](https://novo.academiadoflutter.com.br/)
+**Software Developer** \
+[**Academia Do Flutter**](https://novo.academiadoflutter.com.br/) \
+Tecnologias: `Dart`, `Flutter`, `AWS`, `Firebase`, `Shelf`, `SQLite`
+<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="B7Web" src="https://i.imgur.com/dA6Cvzz.png"/>](https://b7web.com.br/)
 **Software Developer** \
 [**B7Web**](https://b7web.com.br/) \
-Linguagens & Tecnologias: `HTML`, `CSS`, `DOM`, `JavaScript`,`Git/GitHub`
-<br/>Linguagens & Tecnologias - Back-end: `Node.js`
+Tecnologias: `HTML`, `CSS`, `JavaScript`, `Node.js`, `Git/GitHub`
+<br/><br/>
 
-## Frequência de commits:
+---
 
-![snake-gif](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
+### Contribuições
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=footer"/>
+![Snake](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=footer)](https://github.com/josemoura212)
