@@ -1,6 +1,10 @@
+<div align="center">
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=header)](https://github.com/josemoura212)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=2CF71A&center=true&vCenter=true&random=false&width=435&lines=Dev+Full-Stack+%2F+Mobile;Kafka+%7C+Node.js+%7C+Rust+%7C+Docker;Real-time+systems+%26+Infrastructure)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -15,32 +19,56 @@ Dev Full-Stack / Mobile com foco em backend, infraestrutura e sistemas em tempo 
 
 ### Redes Sociais
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994049524) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-augusto-74861b284/)
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994049524)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresjosee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-augusto-74861b284/)
+
+</div>
 
 ---
 
 ### GitHub Stats
 
-[![Stats](https://stats.mangatrix.net/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/josemoura212)
-[![Top Langs](https://stats.mangatrix.net/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark)](https://github.com/josemoura212)
+<div align="center">
+  <img height="180em" src="https://stats.mangatrix.net/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://stats.mangatrix.net/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
 ### Profile Summary
 
-[![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/josemoura212)
+<div align="center">
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+</div>
 
-[![Repos per Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/josemoura212) [![Most Commit Language](./profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/josemoura212)
+<div align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+</div>
 
-[![Stats Card](./profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/josemoura212) [![Productive Time](./profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/josemoura212)
+<div align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
+</div>
 
 ---
 
 ### Tecnologias no dia a dia
 
+<div align="center">
+
 ![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,rust,kafka,docker,mongodb,postgres,redis,firebase,gcp,aws,git,github,linux,vscode)
+
+</div>
 
 ### Estudando no momento
 
+<div align="center">
+
 ![Studying](https://skillicons.dev/icons?i=rust,actix,go,kafka,rabbitmq,react,nextjs,docker,k8s,supabase)
+
+</div>
 
 ---
 
@@ -68,6 +96,14 @@ Tecnologias: `HTML`, `CSS`, `JavaScript`, `Node.js`, `Git/GitHub`
 
 ### Contribuições
 
+<div align="center">
+
 ![Snake](https://github.com/josemoura212/josemoura212/blob/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
+<div align="center">
+
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=footer)](https://github.com/josemoura212)
+
+</div>
