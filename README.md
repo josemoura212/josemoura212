@@ -21,8 +21,8 @@ Dev Full-Stack / Mobile com foco em backend, infraestrutura e sistemas em tempo 
 
 ### GitHub Stats
 
-[![Stats](./profile/stats.svg)](https://github.com/josemoura212)
-[![Top Langs](./profile/top-langs.svg)](https://github.com/josemoura212)
+[![Stats](https://stats.mangatrix.net/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/josemoura212)
+[![Top Langs](https://stats.mangatrix.net/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark)](https://github.com/josemoura212)
 
 ### Profile Summary
 
