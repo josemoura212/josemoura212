@@ -11,6 +11,7 @@ jobs:
 
     permissions:
       contents: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v4
@@ -43,10 +44,66 @@ jobs:
           EXCLUDE: ""
           AUTO_PUSH: false
 
+      - name: Verifica cards gerados
+        id: check
+        run: |
+          missing=""
+          for card in 0-profile-details 1-repos-per-language 2-most-commit-language 3-stats 4-productive-time; do
+            if [ ! -s "profile-summary-card-output/github_dark/$card.svg" ]; then
+              missing="$missing $card"
+            fi
+          done
+          for card in stats top-langs; do
+            if [ ! -s "profile/$card.svg" ]; then
+              missing="$missing profile/$card"
+            fi
+          done
+          missing="${missing# }"
+          echo "missing=$missing" >> "$GITHUB_OUTPUT"
+          if [ -n "$missing" ]; then
+            echo "::error::Cards nao gerados: $missing (versoes anteriores serao mantidas)"
+          fi
+
+      - name: Restaura cards ausentes
+        if: steps.check.outputs.missing != ''
+        run: |
+          deleted=$(git ls-files --deleted -- profile profile-summary-card-output)
+          if [ -n "$deleted" ]; then
+            echo "Restaurando: $deleted"
+            git checkout HEAD -- $deleted
+          fi
+
       - name: Commit all cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg profile-summary-card-output/
+          git add --ignore-removal profile/*.svg profile-summary-card-output/
           git commit -m "chore: atualiza cards de estatísticas" || exit 0
           git push
+
+      - name: Notifica falha
+        if: steps.check.outputs.missing != ''
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          MISSING: ${{ steps.check.outputs.missing }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          body=$(printf '%s\n' \
+            "Cards nao gerados nesta execucao: \`$MISSING\`" \
+            "" \
+            "As versoes anteriores foram mantidas no repositorio, entao o README continua renderizando (com dados desatualizados)." \
+            "" \
+            "Causa mais comum: o secret \`PAT_TOKEN\` perdeu o escopo \`read:user\` ou expirou. Gerar um classic token com \`repo\` + \`read:user\` e atualizar o secret." \
+            "" \
+            "Run: $RUN_URL")
+          gh label create cards-failure --color B60205 --description "Falha na geracao dos cards do perfil" || true
+          existing=$(gh issue list --state open --label cards-failure --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "Falha ao gerar cards do perfil" --label cards-failure --body "$body"
+          fi
+
+      - name: Falha o job se algum card nao gerou
+        if: steps.check.outputs.missing != ''
+        run: exit 1
