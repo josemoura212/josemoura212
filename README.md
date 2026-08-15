@@ -32,8 +32,8 @@ Dev Full-Stack / Mobile com foco em backend, infraestrutura e sistemas em tempo 
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://stats.mangatrix.net/api?username=josemoura212&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://stats.mangatrix.net/api/top-langs/?username=josemoura212&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 
 ### Profile Summary
