@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jos&#233; Augusto's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22, Total Commits  : 3966, Total PRs: 610, Total Issues: 2, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 22, Total Commits  : 3967, Total PRs: 610, Total Issues: 2, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.64881402534083;
+        stroke-dashoffset: 86.26356041324757;
       }
     }
   
